@@ -3,7 +3,7 @@
 - 🏗️ I'm working as a **Software Engineer** @ **Datasys**, Vienna, Austria
 - 🌱 Currently learning System Design and Architecture
 - ⚡ I like Kotlin, and I tolerate JavaScript
-- 📫 Reach me here: [drljacandev@gmail.com](mailto:drljacandev@gmail.com)
+- 📫 Reach me here: [devnikoladr@gmail.com](mailto:devnikoladr@gmail.com)
 
 <!--
 **nikolaDrljaca/nikolaDrljaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
